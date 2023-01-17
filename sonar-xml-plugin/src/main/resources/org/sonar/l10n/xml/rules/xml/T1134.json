@@ -1,0 +1,14 @@
+{
+  "title": "compare pattern logstash in logback.xml",
+  "type": "Bug",
+  "status": "ready",
+  "tags": [
+    "bugs",
+    "gandalf",
+    "magic"
+  ],
+  "defaultSeverity": "Critical",
+  "ruleSpecification": "RSPEC-1134",
+  "sqKey": "T1134",
+  "scope": "All"
+}
